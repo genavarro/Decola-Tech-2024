@@ -1,0 +1,15 @@
+C:\src\Decola-Tech-2024\ExemploExplorando\bin\Debug\net8.0\ExemploExplorando.exe
+C:\src\Decola-Tech-2024\ExemploExplorando\bin\Debug\net8.0\ExemploExplorando.deps.json
+C:\src\Decola-Tech-2024\ExemploExplorando\bin\Debug\net8.0\ExemploExplorando.runtimeconfig.json
+C:\src\Decola-Tech-2024\ExemploExplorando\bin\Debug\net8.0\ExemploExplorando.dll
+C:\src\Decola-Tech-2024\ExemploExplorando\bin\Debug\net8.0\ExemploExplorando.pdb
+C:\src\Decola-Tech-2024\ExemploExplorando\obj\Debug\net8.0\ExemploExplorando.GeneratedMSBuildEditorConfig.editorconfig
+C:\src\Decola-Tech-2024\ExemploExplorando\obj\Debug\net8.0\ExemploExplorando.AssemblyInfoInputs.cache
+C:\src\Decola-Tech-2024\ExemploExplorando\obj\Debug\net8.0\ExemploExplorando.AssemblyInfo.cs
+C:\src\Decola-Tech-2024\ExemploExplorando\obj\Debug\net8.0\ExemploExplorando.csproj.CoreCompileInputs.cache
+C:\src\Decola-Tech-2024\ExemploExplorando\obj\Debug\net8.0\ExemploExplorando.sourcelink.json
+C:\src\Decola-Tech-2024\ExemploExplorando\obj\Debug\net8.0\ExemploExplorando.dll
+C:\src\Decola-Tech-2024\ExemploExplorando\obj\Debug\net8.0\refint\ExemploExplorando.dll
+C:\src\Decola-Tech-2024\ExemploExplorando\obj\Debug\net8.0\ExemploExplorando.pdb
+C:\src\Decola-Tech-2024\ExemploExplorando\obj\Debug\net8.0\ExemploExplorando.genruntimeconfig.cache
+C:\src\Decola-Tech-2024\ExemploExplorando\obj\Debug\net8.0\ref\ExemploExplorando.dll

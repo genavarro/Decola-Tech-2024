@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\src\\decola-tech-2024\\ExemploFundamentos\\ExemploFundamentos.csproj": {}
+    "C:\\src\\Decola-Tech-2024\\ExemploFundamentos\\ExemploFundamentos.csproj": {}
   },
   "projects": {
-    "C:\\src\\decola-tech-2024\\ExemploFundamentos\\ExemploFundamentos.csproj": {
+    "C:\\src\\Decola-Tech-2024\\ExemploFundamentos\\ExemploFundamentos.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\src\\decola-tech-2024\\ExemploFundamentos\\ExemploFundamentos.csproj",
+        "projectUniqueName": "C:\\src\\Decola-Tech-2024\\ExemploFundamentos\\ExemploFundamentos.csproj",
         "projectName": "ExemploFundamentos",
-        "projectPath": "C:\\src\\decola-tech-2024\\ExemploFundamentos\\ExemploFundamentos.csproj",
+        "projectPath": "C:\\src\\Decola-Tech-2024\\ExemploFundamentos\\ExemploFundamentos.csproj",
         "packagesPath": "C:\\Users\\geh12\\.nuget\\packages\\",
-        "outputPath": "C:\\src\\decola-tech-2024\\ExemploFundamentos\\obj\\",
+        "outputPath": "C:\\src\\Decola-Tech-2024\\ExemploFundamentos\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\geh12\\AppData\\Roaming\\NuGet\\NuGet.Config",
